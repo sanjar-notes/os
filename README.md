@@ -1,2 +1,2 @@
 # operating-systems
-Fundamentals of OS, including using them
+Fundamentals of OS, including using them.
