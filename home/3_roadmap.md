@@ -1,0 +1,2 @@
+- The dinosaur book is too asbtract, and not many practical things are discussed. A slow way to learn.
+- Instead do [this](https://www.scaler.com/topics/course/free-operating-system-course/) course, then the [tutorial](https://www.scaler.com/topics/operating-system/) and finally some course covering Linux fundamentals. Time: a month max 
