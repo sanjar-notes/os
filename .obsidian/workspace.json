@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "86b36098c87d9192",
+    "type": "split",
+    "children": [
+      {
+        "id": "d77bd25a28e947bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d23827593efefe15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home/2_resources/2_Scaler_SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4433febe3a3d518",
+    "type": "split",
+    "children": [
+      {
+        "id": "422ecfe2ee88446e",
+        "type": "tabs",
+        "dimension": 81.02466793168881,
+        "children": [
+          {
+            "id": "e4d522289c807a40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8f80a65b4d8acdf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Candidate key",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40dd3c0805fff684",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8e61662f07f2c4bd",
+        "type": "tabs",
+        "dimension": 18.975332068311197,
+        "children": [
+          {
+            "id": "650fb4f159f55fb0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1bf6ef437ecf51ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "98d81dfc23f23fdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a04c93cb951ba656",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "home/2_resources/2_Scaler_SQL.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08894c85cd292333",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "home/2_resources/2_Scaler_SQL.md"
+              }
+            }
+          },
+          {
+            "id": "9b123d141bee6ffc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "2a4faffe0316b062",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "home/2_resources/2_Scaler_SQL.md"
+              }
+            }
+          },
+          {
+            "id": "140dfce60d1ffb32",
+            "type": "leaf",
+            "state": {
+              "type": "review-notes",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-review-notes-plugin:View Recent Notes": false
+    }
+  },
+  "active": "d23827593efefe15",
+  "lastOpenFiles": [
+    "home/4_resource_itineraries/3-scaler-dbms-free/1-Introduction/2-Why-not-simply-use-files-Files-vs-DBMS.md",
+    "home/2_resources/2_Scaler_SQL.md",
+    "home/4_resource_itineraries/3-scaler-dbms-free/13-Functional-Dependencies-and-Decomposition/5-MinimalCanonical-Covers-of-FDssolved-problems.md",
+    "home/4_resource_itineraries/3-scaler-dbms-free/13-Functional-Dependencies-and-Decomposition/4-Functional-Dependency-Sets-and-PropertiesSolved-examples.md",
+    "home/4_resource_itineraries/3-scaler-dbms-free/13-Functional-Dependencies-and-Decomposition/3-Attribute-Closure-Keys-and-Solved-problems.md",
+    "assets/4-Functional-Dependency-Sets-and-PropertiesSolved-examples-image-9-781b29bb.png",
+    "assets/4-Functional-Dependency-Sets-and-PropertiesSolved-examples-image-8-781b29bb.png",
+    "home/4_resource_itineraries/3-scaler-dbms-free/13-Functional-Dependencies-and-Decomposition/2-Functional-Dependencies.md",
+    "assets/4-Functional-Dependency-Sets-and-PropertiesSolved-examples-image-7-781b29bb.png",
+    "assets/4-Functional-Dependency-Sets-and-PropertiesSolved-examples-image-6-781b29bb.png",
+    "assets/4-Functional-Dependency-Sets-and-PropertiesSolved-examples-image-5-781b29bb.png",
+    "assets/4-Functional-Dependency-Sets-and-PropertiesSolved-examples-image-4-781b29bb.png",
+    "assets/4-Functional-Dependency-Sets-and-PropertiesSolved-examples-image-3-781b29bb.png",
+    "assets/4-Functional-Dependency-Sets-and-PropertiesSolved-examples-image-2-781b29bb.png",
+    "assets/4-Functional-Dependency-Sets-and-PropertiesSolved-examples-image-1-781b29bb.png",
+    "home/4_resource_itineraries/3-scaler-dbms-free/1-Introduction/3-Tables-and-keys.md",
+    "assets/3-Attribute-Closure-Keys-and-Solved-problems-image-10-781b29bb.png",
+    "home/4_resource_itineraries/3-scaler-dbms-free/13-Functional-Dependencies-and-Decomposition/1-Designing-tables-in-a-DB.md",
+    "home/4_resource_itineraries/3-scaler-dbms-free/2-ER-Models-and-Diagrams/2-Cardinality-of-relationships-and-constructing-minimal-tables.md",
+    "home/4_resource_itineraries/3-scaler-dbms-free/12-SQL-Data-Control-Language/4-Solved-Problems-2.md",
+    "MyNote.md",
+    "home/4_resource_itineraries/3-scaler-dbms-free/12-SQL-Data-Control-Language/1-Data-Control-Language-GRANT-REVOKE.md",
+    "home/4_resource_itineraries/3-scaler-dbms-free/9-SQL-Advanced-Queries/2-Challenge-9-DBMS.md",
+    "home/4_resource_itineraries/3-scaler-dbms-free/12-SQL-Data-Control-Language/6-Challenge-12-DBMS.md",
+    "home/4_resource_itineraries/3-scaler-dbms-free/11-SQL-Data-Definition-Language/4-Challenge-11-DBMS.md",
+    "home/4_resource_itineraries/3-scaler-dbms-free/12-SQL-Data-Control-Language/5-Solved-Problems-3.md",
+    "home/4_resource_itineraries/3-scaler-dbms-free/9-SQL-Advanced-Queries/1-Sub-QueriesNested-QueriesInner-Queries.md",
+    "Untitled.md",
+    "tooling/obsidian-templates/templater/title_and_date.md",
+    "tooling/obsidian-templates/templater/w2h.md",
+    "NewNote.md",
+    "tooling/obsidian-templates/templater/timestamp.md",
+    "Untitled 1.md",
+    "home/4_resource_itineraries/3-scaler-dbms-free/12-SQL-Data-Control-Language/3-Solved-problems-1.md",
+    "home/4_resource_itineraries/3-scaler-dbms-free/7-SQL-Commands/12-Challenge-7-DBMS.md",
+    "assets/1_Database_System_Concepts_book-pdf-1-127a0331.pdf",
+    "home/4_resource_itineraries/3-scaler-dbms-free/16-File-Structure-B-and-B+-Trees",
+    "home/4_resource_itineraries/3-scaler-dbms-free/15-Transactions-and-Concurrency-Control",
+    "home/4_resource_itineraries/3-scaler-dbms-free/14-Normalisation",
+    "home/4_resource_itineraries/3-scaler-dbms-free/13-Functional-Dependencies-and-Decomposition",
+    "home/4_resource_itineraries/3-scaler-dbms-free/12-SQL-Data-Control-Language",
+    "home/4_resource_itineraries/3-scaler-dbms-free/11-SQL-Data-Definition-Language",
+    "home/4_resource_itineraries/3-scaler-dbms-free/10-SQL-Data-Manipulation-Language",
+    "home/4_resource_itineraries/3-scaler-dbms-free/9-SQL-Advanced-Queries",
+    "home/4_resource_itineraries/3-scaler-dbms-free/8-SQL-Joins",
+    "tasks canvas.canvas"
+  ]
+}
